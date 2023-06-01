@@ -9,7 +9,7 @@ using System.Collections.Generic;
 namespace Shutup {
 	public sealed class Shutup : IDalamudPlugin {
 		#region Fields
-		public string Name => "Auctioneer XIV";
+		public string Name => "Shutup";
 		private const string CommandName = "/shutup";
 
 		private bool enabled = true;
