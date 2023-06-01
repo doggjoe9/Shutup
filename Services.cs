@@ -16,15 +16,12 @@ namespace Shutup {
 		#endregion
 
 		#region DalamudPluginTemplate1 Services
-		internal static Configuration Configuration { get; private set; }
 		#endregion
 #pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
 
 		internal static void Initialize(DalamudPluginInterface pluginInterface) {
 			pluginInterface.Create<Services>();
 			PluginInterface = pluginInterface;
-
-			Configuration = PluginInterface.GetPluginConfig() as Configuration ?? new Configuration();
 		}
 	}
 }

@@ -5,7 +5,6 @@ using Dalamud.Game.Text.SeStringHandling;
 using Dalamud.Logging;
 using Dalamud.Plugin;
 using System.Collections.Generic;
-using System.Xml.Linq;
 
 namespace Shutup {
 	public sealed class Shutup : IDalamudPlugin {

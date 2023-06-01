@@ -1,0 +1,21 @@
+[
+  {
+    "Author": "shak",
+    "Name": "Shutup",
+    "Punchline": "Shut up.",
+    "Description": "Make people be quiet.",
+    "InternalName": "Shutup",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/doggjoe9/Shutup",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "DownloadLinkInstall": "https://github.com/doggjoe9/Shutup/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/doggjoe9/Shutup/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/doggjoe9/Shutup/releases/latest/download/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "1684538208",
+    "Changelog": ""
+  }
+]
